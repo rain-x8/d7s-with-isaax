@@ -3,6 +3,6 @@
     "license": "MIT",
     "author": "tomotomo",
     "scripts": {
-        "start": "python3 -u Main.py"
+        "start": "python3 -u main.py"
     }
 }
